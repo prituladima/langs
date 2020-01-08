@@ -1,8 +1,15 @@
---- Understanding the Java Class Structure
+Language difference in same problems
+===================   
+# Class Structure #
 
+## Fields and Methods ##
+
+### C++ ###
 ```cpp
 class Animal
 {
+    private:
+        string name;
     public:
         string getName() {
             return name;
@@ -12,13 +19,11 @@ class Animal
         {
             name = newName;
         }
- 
-    private:
-        string name;
 };
 
 ```
 
+### Java ###
 ```java
 public class Animal {
     String name;
@@ -31,6 +36,7 @@ public class Animal {
 }
 ```
 
+### Python ###
 ```python
 class Animal: 
     def __init__(self, name): 
