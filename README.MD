@@ -118,4 +118,41 @@ print(mathematics.pi)
 randrange(10) # Integer from 0 to 9 inclusive
 ```
 
-NEXT PAGE 14
+## Creating Objects ##
+
+### C++ ###
+```cpp
+Animal aninal(); 
+```
+
+### Java ###
+```java
+Animal animal = new Animal();
+```
+
+### Python ###
+```python
+p1 = Animal()
+print(p1.get_name())
+```
+
+## Null pointer ##
+
+### C++ ###
+```cpp
+Animal animal;
+Animal *animalPointer = &animal;
+animalPointer = NULL; 
+animalPointer = 0; 
+animalPointer = nullptr; 
+```
+
+### Java ###
+```java
+Animal animal = null;
+```
+
+### Python ###
+```python
+animal = None
+```

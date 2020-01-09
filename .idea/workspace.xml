@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578521304471</updated>
-      <workItem from="1578521306877" duration="5227000" />
+      <workItem from="1578521306877" duration="7904000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1578523288512</created>
@@ -106,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578526689933</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="No commit message">
+      <created>1578526798762</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578526798762</updated>
+    </task>
+    <task id="LOCAL-00006" summary="No commit message">
+      <created>1578526917198</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578526917198</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,13 +130,14 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="test commit 2" />
     <MESSAGE value="test commit 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit 3" />
+    <MESSAGE value="No commit message" />
+    <option name="LAST_COMMIT_MESSAGE" value="No commit message" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1578526797745">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1578526916176">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578526797745" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578526916176" />
     <state x="129" y="54" key="DiffContextDialog" timestamp="1578526684031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -131,10 +146,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578523202897" />
-    <state x="275" y="85" key="Vcs.Push.Dialog.v2" timestamp="1578526801208">
+    <state x="275" y="85" key="Vcs.Push.Dialog.v2" timestamp="1578526919163">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="85" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578526801208" />
+    <state x="275" y="85" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578526919163" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1578524068314">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
